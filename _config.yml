@@ -105,8 +105,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/YangMan824/YangMan824.git
-  branch: master
+  repo: https://github.com/YangMan824/YangMan824.github.io.git
+  branch: main
 
 
 # 添加卡通动画人物
