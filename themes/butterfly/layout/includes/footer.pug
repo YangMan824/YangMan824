@@ -1,0 +1,27 @@
+#footer-wrap
+  if theme.footer.owner.enable
+    - var now = new Date()
+    - var nowYear = now.getFullYear()
+    if theme.footer.owner.since && theme.footer.owner.since != nowYear
+      //- .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear } By ${config.author}`
+      .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear + ' '} <i id="heartbeat" class="fa fas fa-heartbeat"></i> ${config.author}`
+    else
+      //- .copyright!= `&copy;${nowYear} By ${config.author}`
+      .copyright!= `&copy;${nowYear + ' '} <i id="heartbeat" class="fa fas fa-heartbeat"></i> ${config.author}`
+  if theme.footer.copyright
+    .framework-info
+      span= _p('footer.framework') + ' '
+      a(href='https://hexo.io')= 'Hexo'
+      span.footer-separator |
+      span= _p('footer.theme') + ' '
+      a(href='https://github.com/jerryc127/hexo-theme-butterfly')= 'Butterfly'
+  if theme.footer.custom_text
+    .footer_custom_text!=`${theme.footer.custom_text}`
+
+//-跳动的心
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HCLonely/images@master/others/heartbeat.min.css"></head>
+
+<div style="position:fixed;bottom:0;left:-255px;">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=539928216&auto=1&height=32"></iframe>
+</div>
+
