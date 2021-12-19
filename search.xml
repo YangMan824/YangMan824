@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My New Post</title>
+    <url>/posts/MyNewPost/</url>
+    <content><![CDATA[<h3 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h3><p>&nbsp;&nbsp;说实话,不知道到底该写些什么来表达我激动得心情</p>
+]]></content>
+      <categories>
+        <category>HEXO</category>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>HEXO</tag>
+        <tag>教程</tag>
+        <tag>JAVA Script</tag>
+      </tags>
+  </entry>
+</search>
