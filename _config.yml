@@ -14,7 +14,7 @@ email: sonder_ym@163.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://yangman824.gitee.io/yangman824 # http://example.com
+url: https://yangman824.gitee.io # http://example.com
 root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
@@ -107,7 +107,7 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:YangMan824/YangMan824.github.io.git
-  branch: main
+  branch: master
 
 
 # 添加卡通动画人物
@@ -128,3 +128,15 @@ search:
   field: post
   format: html
   limit: 10000
+
+# 置顶文章
+swiper:
+  enable: true
+  priority: 1
+  enable_page: /
+  layout:
+    type: id
+    name: recent-posts
+    index: 0
+  temple_html: '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container">${temple_html_item}</div></div>'
+  plus_style: ""
