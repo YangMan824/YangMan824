@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yangman824.gitee.io/posts/windows/</loc>
-    <lastmod>2021-12-20</lastmod>
+    <loc>https://yangman824.gitee.io/posts/newStart/</loc>
+    <lastmod>2021-12-21</lastmod>
   </url>
   <url>
     <loc>https://yangman824.gitee.io/posts/mysqlError/</loc>
-    <lastmod>2021-12-20</lastmod>
+    <lastmod>2021-12-21</lastmod>
   </url>
   <url>
-    <loc>https://yangman824.gitee.io/posts/newStart/</loc>
+    <loc>https://yangman824.gitee.io/posts/windows/</loc>
     <lastmod>2021-12-20</lastmod>
   </url>
 </urlset> 
