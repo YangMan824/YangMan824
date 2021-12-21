@@ -8,6 +8,7 @@ tags:
 categories:
     - 菜鸟进阶路
 keywords: "MySQL、ERROR、程序人生"
+abbrlink: "ERROR 2003"
 description: "ERROR 2003 (HY000)"
 top_img: 
 cover: /img/mysqlError/face.jpg

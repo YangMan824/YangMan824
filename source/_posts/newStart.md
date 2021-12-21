@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 程序人生之新起点
 date: 2021-12-14 21:38:57
 tags: 
@@ -8,7 +9,7 @@ tags:
 categories:
     - 程序人生
 keywords: "总结、程序人生、菜鸟进阶路"
-abbrlink: newStart
+abbrlink: 程序人生之新起点
 description: "努力请从今日始，不仅是成功之道，而且是不同领域的人有所作为的重要条件。"
 top_img: 
 cover: img/life.png

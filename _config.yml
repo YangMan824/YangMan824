@@ -4,19 +4,19 @@
 
 # Site
 title: Yang's Blog
-subtitle: ''
-description: ''
-keywords:
+subtitle: '简单地活着,肆意又精彩'
+description: 'The more I study,the more insatiable do I feel my genius for it to be.'
+keywords: 前端博客,JavaScript,html5,css3,Vue,React,Jquery,NodeJs,Windews
 author: Yang
 language: zh-CN 
-timezone: ''
+timezone: 'Asia/Shanghai'
 email: sonder_ym@163.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://yangman824.gitee.io # http://example.com
 root: /
-permalink: posts/:abbrlink/
+permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -105,9 +105,11 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:YangMan824/YangMan824.github.io.git
-  branch: master
+  - type: git
+    repository: 
+      github: git@github.com:YangMan824/YangMan824.github.io.git
+    branch: master
+  - type: baidu_url_submitter    
 
 
 # 添加卡通动画人物
@@ -140,3 +142,16 @@ swiper:
     index: 0
   temple_html: '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container">${temple_html_item}</div></div>'
   plus_style: ""
+
+
+# 百度提交
+baidu_url_submit:
+  count: 1              # 提交最新的多少个链接
+  host: yangman824.gitee.io    # 在百度站长平台中添加的域名
+  token: 9ZreOytuYm51Tbj9      # 秘钥
+  path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
