@@ -1,1 +1,1 @@
-https://yangman824.gitee.io/posts/windows/
+https://yangman824.gitee.io/posts/mysqlConnection/

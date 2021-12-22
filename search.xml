@@ -9,6 +9,7 @@
 <h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>&emsp;&emsp;这周我还摔坏了热水壶的壶胆，第二次坏胆了。嗐，我接完热水上楼梯的时候直接磕到了，也不知道当时我在想啥就跑神了，还好没烫住其他人，我也没啥大事，就挺心疼我的壶。一年换一个，啊这，之前那个就因为我拖地没看到给弄倒了，庆幸学校卖有壶胆也不贵，10元一个，而且我壶的外壳比较坚强，胆烂了两个它也没烂。</p>
 <p>&emsp;&emsp;周六晚上带我们组小孩去聚餐了，但由于我的疏忽，地方选择的不太好，导致大家没有玩的特别尽兴。我们是两个组的人一块聚了，我们组就7个人，本来想着人太少了害怕玩不开，加上另一组的人可能略显多，但是大家最后玩的开心就是比较完美的事情了……</p>
 <p>&emsp;&emsp;从今天开始就闭组了，我们也要开始复习了，计科大三有12门课，下学期有13门课，这学期必须早早的进入复习状态了，加油💪</p>
+<p>&emsp;&emsp;<a href="https://blog.csdn.net/qq_45731083?spm=1001.2101.3001.5343">CSDN</a>欢迎各位大佬访问！</p>
 <img src="/img/blog.png"/>
 
 <p>&emsp;&emsp;</p>
@@ -48,8 +49,9 @@
         <category>菜鸟进阶路</category>
       </categories>
       <tags>
-        <tag>程序人生</tag>
-        <tag>菜鸟进阶路</tag>
+        <tag>MySQL</tag>
+        <tag>数据库</tag>
+        <tag>database</tag>
       </tags>
   </entry>
   <entry>
@@ -65,6 +67,34 @@
       <tags>
         <tag>菜鸟进阶路</tag>
         <tag>windows10</tag>
+        <tag>文件权限</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Server returns invalid timezone. Go to &#39;Advanced&#39; tab and set &#39;serverTimezone&#39; prope</title>
+    <url>/posts/mysqlConnection/</url>
+    <content><![CDATA[<h1 id="Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope"><a href="#Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope" class="headerlink" title="Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope"></a>Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope</h1><p>&emsp;&emsp;前进的道路永远充满荆棘。</p>
+<h1 id="错误界面"><a href="#错误界面" class="headerlink" title="错误界面"></a>错误界面</h1><p>&emsp;&emsp;IDEA连接mysql，地址，用户名，密码，数据库名，全都配置好了，点测试连接，咔！不成功！<br><img src="/img/mysqlConnection/1.png"/></p>
+<p>&emsp;&emsp;翻译一下就是：服务器返回无效的时区。到“高级”选项卡，手动设置“serverTimezone”属性。</p>
+<h3 id="解决办法：设置mysql时区"><a href="#解决办法：设置mysql时区" class="headerlink" title="解决办法：设置mysql时区"></a>解决办法：设置mysql时区</h3><ol>
+<li><p>进入命令窗口（win+R），输入cmd，进入数据库 <code>mysql -hlocalhost -uroot -p </code> =&gt; 输入密码=&gt;回车，如图所示：</p>
+<img src="/img/mysqlConnection/2.png"/></li>
+<li><p>继续输入 <code>show variables like&#39;%time_zone&#39;;</code>  （<strong>注意：</strong>不要漏掉后面的分号），回车，如图：</p>
+<img src="/img/mysqlConnection/3.png"/></li>
+<li><p>输入<code>set global time_zone = &#39;+8:00&#39;;</code> (<strong>注意：</strong>不要漏掉后面的分号），回车，如图：</p>
+<img src="/img/mysqlConnection/4.png"/></li>
+<li><p>修改成功后退出，回到idea中点击<strong>Test Connection</strong>测试下，就成功啦！</p>
+<img src="/img/mysqlConnection/5.png"/></li>
+</ol>
+]]></content>
+      <categories>
+        <category>菜鸟进阶路</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+        <tag>serverTimezone</tag>
+        <tag>IDEA</tag>
+        <tag>database</tag>
       </tags>
   </entry>
 </search>
