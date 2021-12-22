@@ -9,7 +9,7 @@ tags:
 categories:
     - 程序人生
 keywords: "总结、程序人生、菜鸟进阶路"
-abbrlink: 程序人生之新起点
+abbrlink: newStart
 description: "努力请从今日始，不仅是成功之道，而且是不同领域的人有所作为的重要条件。"
 top_img: 
 cover: img/life.png
