@@ -37,6 +37,8 @@ swiper_cover: /img/life.png
 
 &emsp;&emsp;从今天开始就闭组了，我们也要开始复习了，计科大三有12门课，下学期有13门课，这学期必须早早的进入复习状态了，加油💪
 
+&emsp;&emsp;[CSDN](https://blog.csdn.net/qq_45731083?spm=1001.2101.3001.5343)欢迎各位大佬访问！
+
 <img src="/img/blog.png"/>
 
 &emsp;&emsp;

@@ -3,11 +3,12 @@ layout: post
 title: ERROR 2003 (HY000):Can’t connect to MySQL server on ‘localhost:3306’ (10061)
 date: 2021-12-20 17:20:57
 tags: 
-    - 程序人生
-    - 菜鸟进阶路
+    - MySQL
+    - 数据库
+    - database
 categories:
     - 菜鸟进阶路
-keywords: "MySQL、ERROR、程序人生"
+keywords: "MySQL、数据库、database"
 abbrlink: "ERROR 2003"
 description: "ERROR 2003 (HY000)"
 top_img: 
