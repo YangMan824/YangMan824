@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>程序人生之新起点</title>
-    <url>/posts/newStart/</url>
-    <content><![CDATA[<h3 id="新起点"><a href="#新起点" class="headerlink" title="新起点"></a>新起点</h3><p>&emsp;&emsp;努力奋斗一周，我自己搭建的个人博客终于面世了，说来也是……南啊。其实说实话搭建个博客要不了多长时间，但作为一个强迫症患者，总觉得自己哪里做的不够好，不是这难看就是那看的不顺眼，缝缝补补，终于要跟大家见面了。说实话，我还是挺激动的，毕竟自己亲手搞得，看它一点点长大，整天跟个老母亲一样，想让它再完善点，页面再好看点，优化再做到位点……每次看它好看一点，都忍不住再给它包装包装。虽然它现在还没有特别完美，也不是特别的优化，但我仍为自己感到骄傲和自豪，自己从中也学习到了好多知识，收获还是比较多的，也是超开心的一周（忽略一个bug解决n天），毕竟什么事都得痛并快乐是吧。</p>
-<h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><p>&emsp;&emsp;这周其实没学到特别多的东西，在小组学习的大部分时间都用来搭建博客了。主要是兴致来了挡都挡不住，就觉得得把他做好才能做其他事，然后也没想太多。以至于四级前几天还在搞这个东西，还自我安慰说：反正四级也过不了就直接不看了，额，现在想想真是傻子才能想出这话。坎儿井这坎儿看来咱这次也过不去了，铁观音都没过去，何况坎儿井啊。心态要放平，但我只有一次机会了，呜呜呜/(ㄒoㄒ)/~~。容错率几乎为零了，下次只能成功不能失败，但愿能过不会有四战……</p>
-<p>​&emsp;&emsp;我们这周大部分课程都结课了，明天就开始实训周了，周日晚上才跟我们说实训地点，具体内容尚未得知。但去年学长学姐说好像要做个后台管理系统，令人发愁，直接头秃。如果光搞前台我可能还会一点，但是还得写后台，这这这……人菜就算想也做不了全栈，非常有自知之明，哈哈哈哈哈😁</p>
-<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>&emsp;&emsp;这周我还摔坏了热水壶的壶胆，第二次坏胆了。嗐，我接完热水上楼梯的时候直接磕到了，也不知道当时我在想啥就跑神了，还好没烫住其他人，我也没啥大事，就挺心疼我的壶。一年换一个，啊这，之前那个就因为我拖地没看到给弄倒了，庆幸学校卖有壶胆也不贵，10元一个，而且我壶的外壳比较坚强，胆烂了两个它也没烂。</p>
-<p>&emsp;&emsp;周六晚上带我们组小孩去聚餐了，但由于我的疏忽，地方选择的不太好，导致大家没有玩的特别尽兴。我们是两个组的人一块聚了，我们组就7个人，本来想着人太少了害怕玩不开，加上另一组的人可能略显多，但是大家最后玩的开心就是比较完美的事情了……</p>
-<p>&emsp;&emsp;从今天开始就闭组了，我们也要开始复习了，计科大三有12门课，下学期有13门课，这学期必须早早的进入复习状态了，加油💪</p>
-<p>&emsp;&emsp;<a href="https://blog.csdn.net/qq_45731083?spm=1001.2101.3001.5343">CSDN</a>欢迎各位大佬访问！</p>
-<img src="/img/blog.png"/>
-
-<p>&emsp;&emsp;</p>
-]]></content>
-      <categories>
-        <category>程序人生</category>
-      </categories>
-      <tags>
-        <tag>总结</tag>
-        <tag>程序人生</tag>
-        <tag>菜鸟进阶路</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ERROR 2003 (HY000):Can‘t connect to MySQL server on localhost:3306 (10061)</title>
     <url>/posts/mysqlError/</url>
     <content><![CDATA[<h2 id="ERROR-2003-HY000-Can’t-connect-to-MySQL-server-on-‘localhost-3306’-10061"><a href="#ERROR-2003-HY000-Can’t-connect-to-MySQL-server-on-‘localhost-3306’-10061" class="headerlink" title="ERROR 2003 (HY000): Can’t connect to MySQL server on ‘localhost:3306’ (10061)"></a>ERROR 2003 (HY000): Can’t connect to MySQL server on ‘localhost:3306’ (10061)</h2><p>&emsp;&emsp;这周开始我们有两周的实训课，实训内容竟与Mysql有关，本来以为安装软件就是无脑安装，一直点next就行了，但这个软件硬生生搞了一个小时，阿巴阿巴……小炒面，我应该还能承受的来 </p>
@@ -55,23 +32,7 @@
       </tags>
   </entry>
   <entry>
-    <title>你没有权限打开该文件，请向文件的所有者或管理员申请权限</title>
-    <url>/posts/windows/</url>
-    <content><![CDATA[<h1 id="【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限"><a href="#【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限" class="headerlink" title="【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限"></a>【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限</h1><h3 id="问题："><a href="#问题：" class="headerlink" title="问题："></a>问题：</h3><img src="/img/windows/1.png"/>
-
-<h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p><strong>右键–属性–安全–编辑–选择UsersUsers (DESKTOP-EOLOG3Q\Users),勾选完全控制–确定–确定</strong><br><img src="/img/windows/2.png"/></p>
-]]></content>
-      <categories>
-        <category>程序人生</category>
-      </categories>
-      <tags>
-        <tag>菜鸟进阶路</tag>
-        <tag>windows10</tag>
-        <tag>文件权限</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Server returns invalid timezone. Go to Advanced tab and set serverTimezone prope</title>
+    <title>Server returns invalid timezone.Go to Advanced tab and set serverTimezone prope</title>
     <url>/posts/Connection/</url>
     <content><![CDATA[<h1 id="Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope"><a href="#Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope" class="headerlink" title="Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope"></a>Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope</h1><p>&emsp;&emsp;前进的道路永远充满荆棘。</p>
 <h1 id="错误界面"><a href="#错误界面" class="headerlink" title="错误界面"></a>错误界面</h1><p>&emsp;&emsp;IDEA连接mysql，地址，用户名，密码，数据库名，全都配置好了，点测试连接，咔！不成功！<br><img src="/img/mysqlConnection/1.png"/></p>
@@ -92,9 +53,48 @@
       </categories>
       <tags>
         <tag>MySQL</tag>
+        <tag>database</tag>
         <tag>serverTimezone</tag>
         <tag>IDEA</tag>
-        <tag>database</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你没有权限打开该文件，请向文件的所有者或管理员申请权限</title>
+    <url>/posts/windows/</url>
+    <content><![CDATA[<h1 id="【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限"><a href="#【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限" class="headerlink" title="【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限"></a>【Windows】你没有权限打开该文件，请向文件的所有者或管理员申请权限</h1><h3 id="问题："><a href="#问题：" class="headerlink" title="问题："></a>问题：</h3><img src="/img/windows/1.png"/>
+
+<h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p><strong>右键–属性–安全–编辑–选择UsersUsers (DESKTOP-EOLOG3Q\Users),勾选完全控制–确定–确定</strong><br><img src="/img/windows/2.png"/></p>
+]]></content>
+      <categories>
+        <category>程序人生</category>
+      </categories>
+      <tags>
+        <tag>windows10</tag>
+        <tag>文件权限</tag>
+        <tag>菜鸟进阶路</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>程序人生之新起点</title>
+    <url>/posts/newStart/</url>
+    <content><![CDATA[<h3 id="新起点"><a href="#新起点" class="headerlink" title="新起点"></a>新起点</h3><p>&emsp;&emsp;努力奋斗一周，我自己搭建的个人博客终于面世了，说来也是……南啊。其实说实话搭建个博客要不了多长时间，但作为一个强迫症患者，总觉得自己哪里做的不够好，不是这难看就是那看的不顺眼，缝缝补补，终于要跟大家见面了。说实话，我还是挺激动的，毕竟自己亲手搞得，看它一点点长大，整天跟个老母亲一样，想让它再完善点，页面再好看点，优化再做到位点……每次看它好看一点，都忍不住再给它包装包装。虽然它现在还没有特别完美，也不是特别的优化，但我仍为自己感到骄傲和自豪，自己从中也学习到了好多知识，收获还是比较多的，也是超开心的一周（忽略一个bug解决n天），毕竟什么事都得痛并快乐是吧。</p>
+<h3 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h3><p>&emsp;&emsp;这周其实没学到特别多的东西，在小组学习的大部分时间都用来搭建博客了。主要是兴致来了挡都挡不住，就觉得得把他做好才能做其他事，然后也没想太多。以至于四级前几天还在搞这个东西，还自我安慰说：反正四级也过不了就直接不看了，额，现在想想真是傻子才能想出这话。坎儿井这坎儿看来咱这次也过不去了，铁观音都没过去，何况坎儿井啊。心态要放平，但我只有一次机会了，呜呜呜/(ㄒoㄒ)/~~。容错率几乎为零了，下次只能成功不能失败，但愿能过不会有四战……</p>
+<p>​&emsp;&emsp;我们这周大部分课程都结课了，明天就开始实训周了，周日晚上才跟我们说实训地点，具体内容尚未得知。但去年学长学姐说好像要做个后台管理系统，令人发愁，直接头秃。如果光搞前台我可能还会一点，但是还得写后台，这这这……人菜就算想也做不了全栈，非常有自知之明，哈哈哈哈哈😁</p>
+<h3 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h3><p>&emsp;&emsp;这周我还摔坏了热水壶的壶胆，第二次坏胆了。嗐，我接完热水上楼梯的时候直接磕到了，也不知道当时我在想啥就跑神了，还好没烫住其他人，我也没啥大事，就挺心疼我的壶。一年换一个，啊这，之前那个就因为我拖地没看到给弄倒了，庆幸学校卖有壶胆也不贵，10元一个，而且我壶的外壳比较坚强，胆烂了两个它也没烂。</p>
+<p>&emsp;&emsp;周六晚上带我们组小孩去聚餐了，但由于我的疏忽，地方选择的不太好，导致大家没有玩的特别尽兴。我们是两个组的人一块聚了，我们组就7个人，本来想着人太少了害怕玩不开，加上另一组的人可能略显多，但是大家最后玩的开心就是比较完美的事情了……</p>
+<p>&emsp;&emsp;从今天开始就闭组了，我们也要开始复习了，计科大三有12门课，下学期有13门课，这学期必须早早的进入复习状态了，加油💪</p>
+<p>&emsp;&emsp;<a href="https://blog.csdn.net/qq_45731083?spm=1001.2101.3001.5343">CSDN</a>欢迎各位大佬访问！</p>
+<img src="/img/blog.png"/>
+
+<p>&emsp;&emsp;</p>
+]]></content>
+      <categories>
+        <category>程序人生</category>
+      </categories>
+      <tags>
+        <tag>菜鸟进阶路</tag>
+        <tag>总结</tag>
+        <tag>程序人生</tag>
       </tags>
   </entry>
 </search>
