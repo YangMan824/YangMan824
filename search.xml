@@ -72,7 +72,7 @@
   </entry>
   <entry>
     <title>Server returns invalid timezone. Go to Advanced tab and set serverTimezone prope</title>
-    <url>/posts/mysqlConnection/</url>
+    <url>/posts/Connection/</url>
     <content><![CDATA[<h1 id="Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope"><a href="#Server-returns-invalid-timezone-Go-to-‘Advanced’-tab-and-set-‘serverTimezone’-prope" class="headerlink" title="Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope"></a>Server returns invalid timezone. Go to ‘Advanced’ tab and set ‘serverTimezone’ prope</h1><p>&emsp;&emsp;前进的道路永远充满荆棘。</p>
 <h1 id="错误界面"><a href="#错误界面" class="headerlink" title="错误界面"></a>错误界面</h1><p>&emsp;&emsp;IDEA连接mysql，地址，用户名，密码，数据库名，全都配置好了，点测试连接，咔！不成功！<br><img src="/img/mysqlConnection/1.png"/></p>
 <p>&emsp;&emsp;翻译一下就是：服务器返回无效的时区。到“高级”选项卡，手动设置“serverTimezone”属性。</p>

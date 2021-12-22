@@ -1,4 +1,4 @@
-https://yangman824.gitee.io/posts/mysqlConnection/
+https://yangman824.gitee.io/posts/Connection/
 https://yangman824.gitee.io/posts/windows/
 https://yangman824.gitee.io/posts/mysqlError/
 https://yangman824.gitee.io/posts/newStart/
