@@ -5,16 +5,15 @@ date: 2021-12-14 21:38:57
 tags: 
     - 总结
     - 程序人生
-    - 菜鸟进阶路
 categories:
     - 程序人生
-keywords: "总结、程序人生、菜鸟进阶路"
+keywords: "总结、程序人生"
 abbrlink: newStart
 description: "努力请从今日始，不仅是成功之道，而且是不同领域的人有所作为的重要条件。"
 top_img: 
 cover: img/life.png
 swiper_index: 3
-swiper_desc: 简单好用的 hexo 博客文章置顶插件！
+swiper_desc: 
 swiper_cover: /img/life.png
 
 ---

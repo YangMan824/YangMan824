@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Server returns invalid timezone. Go to Advanced tab and set serverTimezone prope"
+title: Server returns invalid timezone.Go to Advanced tab and set serverTimezone prope
 date: 2021-12-22 15:48:24
 tags: 
     - MySQL
@@ -10,13 +10,14 @@ tags:
 categories:
     - 菜鸟进阶路
 keywords: "MySQL、数据库、database、serverTimezone、IDEA"
-abbrlink: mysqlConnection
+abbrlink: Connection
 description: "Server returns invalid timezone"
 top_img: 
 cover: /img/mysqlError/face.jpg
 swiper_index: 4
 swiper_desc: 解决IDEA中连接数据库时区报错
 swiper_cover: /img/mysqlError/face.jpg
+
 ---
 
 
